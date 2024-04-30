@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../data_odometry_poses truth poses"
+		},
+		{
+			"path": "../../data_odometry_gray"
+		}
+	]
+}
